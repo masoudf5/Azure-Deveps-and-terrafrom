@@ -41,7 +41,4 @@ msbuild.wrn
 
 # Terraform
 .terraform
-.terraform.lock.hcl
 security.txt
-terraform.tfstate
-terraform.tfstate.backup
